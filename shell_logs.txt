@@ -1,0 +1,500 @@
+   11  make debug
+   12  ./bump_test
+   13  python3 driver.py -w1
+   14  make debug
+   15  ./bump_test
+   16  python3 driver.py -w1
+   17  make debug
+   18  ./bump_test
+   19  make debug
+   20  ./bump_test
+   21  make debug
+   22  ./bump_test
+   23  make debug
+   24  ./bump_test
+   25  make debug
+   26  ./bump_test
+   27  make debug
+   28  ./bump_test
+   29  make debug
+   30  ./bump_test
+   31  make debug
+   32  ./bump_test
+   33  python3 driver.py -w1
+   34  git add .
+   35  git commit -m "MM Lab Week 2"
+   36  git push origin main
+   37  ./bump_test
+   38  make debug
+   39  make debug
+   40  ./bump_test
+   41  python3 driver.py -w2
+   42  git add .
+   43  git commit -m "MM Lab Week 2"
+   44  git push origin main
+   45  make debug
+   46  python3 driver.py -w1
+   47  make debug
+   48  ./bump_test
+   49  make debug
+   50  ./bump_test
+   51  python3 driver.py -w1
+   52  ./bump_test
+   53  make heap_runner
+   54  ./heap_runner
+   55  runner -r traces/week1/short1-bal.rep
+   56  make debug
+   57  runner -r traces/week1/short1-bal.rep
+   58  make debug
+   59  runner -r traces/week1/short1-bal.rep
+   60  runner -r traces/week1/short1-bal.rep
+   61  python3 driver.py -w1
+   62  make debug
+   63  python3 driver.py -w1
+   64  runner -r traces/week1/short1-bal.rep
+   65  gdb runner
+   66  make debug
+   67  runner -r traces/week1/short1-bal.rep
+   68  python3 driver.py -w1
+   69  make debug
+   70  python3 driver.py -w1
+   71  git add .
+   72  git commit -m "MM Lab Week 2"
+   73  git push origin main
+   74  make debug
+   75  runner -r traces/week1/short1-bal.rep
+   76  make debug
+   77  runner -r traces/week1/short1-bal.rep
+   78  python3 driver.py -w1
+   79  git add .
+   80  git commit -m "MM Lab Week 2"
+   81  git push origin main
+   82  gdb runner
+   83  make clean
+   84  make debug
+   85  make debug
+   86  python3 driver.py -w1
+   87  make debug
+   88  make debug
+   89  python3 driver.py -w1
+   90  make debug
+   91  python3 driver.py -w1
+   92  ./bump_test
+   93  gdb runner
+   94  make debug
+   95  python3 driver.py -w1
+   96  git add .
+   97  git commit -m "MM Lab Week 2"
+   98  git push origin main
+   99  make debug
+  100  python3 driver.py -w1
+  101  git add .
+  102  git commit -m "MM Lab Week 2"
+  103  git push origin main
+  104  code .
+  105  ls
+  106  touch ~/.gdbint
+  107  ls
+  108  ls -la
+  109  man echo
+  110  echo "set history save on" > .gdbint
+  111  cat ./gdbint
+  112  cat .gdbint
+  113  mv .gdbint .gdbinit
+  114  ls -la
+  115  ssh-keygen -t ed25519
+  116  cat /u/depdhar4/.ssh/id_ed25519.pub
+  117  pwd
+  118  mkdir demo
+  119  ls
+  120  cd demo
+  121  pwd
+  122  git clone git@github.com:ezk1d/Proficiency-Practice.git
+  123  git clone git@github.com:ezk1d/Proficiency-Practice.git
+  124  ls
+  125  cd Proficiencty-Practice
+  126  cd Proficiency-Practice
+  127  pwd
+  128  ls
+  129  bash
+  130  make
+  131  make debug
+  132  cd Proficiency-Practice
+  133  make 
+  134  gcc -i Proficiency-Practice/testcases/basic_add.s
+  135  ./mini-ci
+  136  ./mini-ci Proficiency-Practice/testcases/basic_add.s
+  137  make debug
+  138  make clean
+  139  clear
+  140  make debug
+  141  ./mini_ci
+  142  ./mini_ci Proficiency-Practice/testcases/basic_add.s
+  143  ./mini_ci testcases/basic_ass.s
+  144  ./mini_ci testcases/basic_add.s
+  145  git clone git@github.com:ezk1d/Practice.git
+  146  ls
+  147  cd demo
+  148  cd .
+  149  cd ..
+  150  git clone git@github.com:ezk1d/Practice.git
+  151  cd Practice
+  152  ls
+  153  cd Practice
+  154  make
+  155  make stitch
+  156  make pleakly
+  157  make pleakley
+  158  bin/second_trie -w Practice/testcases/no-find.in
+  159  bin/second_trie -w testcases/no-find.in
+  160  bin/second_trie -w testcases/easy.in
+  161  trie_ref -w testcases/easy.in
+  162  gdb bin
+  163  gdb bin/second_trie
+  164  make cobra
+  165  git clone git@github.com:ezk1d/Practice.git
+  166  cd Practice
+  167  open Makefile
+  168  clear
+  169  make
+  170  make stitch
+  171  make pleakley
+  172  bin/second_trie -w testcases/no-find.in
+  173  make lilo
+  174  clear
+  175  bin/second_trie -w testcases/no-find.in
+  176  gdb bin/second_trie
+  177  stitch
+  178  make stitch
+  179  make lilo
+  180  make nani
+  181  clear
+  182  pleakley
+  183  make 
+  184  make pleakley
+  185  make stitch
+  186  make lilo
+  187  gdb bin.second_trie
+  188  gdb bin/second_trie
+  189  make stitch
+  190  bin/second_trie -w testcases/no-find.in
+  191  gdb bin/second_trie
+  192  make lilo
+  193  cd Proficiency-Practice
+  194  make
+  195  clean
+  196  make clean
+  197  make debug
+  198  make check
+  199  clear
+  200  make check
+  201  ./mini_ci testcases/basic_add.s
+  202  ./mini_ci testcases/multi_op_err.s
+  203  gdb mini_ci
+  204  cd Proficiency-Practice
+  205  gdb mini_ci
+  206  make clean
+  207  make
+  208  make debug
+  209  make clean
+  210  make debug
+  211  ./mini_ci testcases/multi_op_err.s
+  212  make check
+  213  cd Proficiency-Practice
+  214  ./mini_ci testcases/basic_add.s
+  215  make check
+  216  history
+  217  mkdir test
+  218  ls
+  219  git clone git@github.com:CS429-FA2025/shared-repo-version-b-ezk1d.git
+  220  ls
+  221  git clone git@github.com:CS429-FA2025/shared-repo-version-b-ezk1d.git test1
+  222  ls
+  223  bash
+  224  cd ..
+  225  ls
+  226  cd chmod.log.20250915-112750 
+  227  ls
+  228  cs test1
+  229  cd test1
+  230  ls
+  231  cd ..
+  232  ls
+  233  cd test1
+  234  ls
+  235  git remote -v
+  236  trex
+  237  make
+  238  make trex
+  239  make trex
+  240  make raptor
+  241  clear
+  242  man bin/orderlogs
+  243  bin/orderlogs
+  244  bin/orderlogs testcases/all_new
+  245  bin/orderlogs -f testcases/all_new
+  246  gdb bin/orderlogs
+  247  make trex
+  248  make trike
+  249  make spinosaurus
+  250  make trike
+  251  gdb bin/orderlogs
+  252  make spinosaurus
+  253  make trike
+  254  bin/orderlogs testcases/all_new
+  255  bin/orderlogs -f testcases/all_new
+  256  make raptor
+  257  make spinosaurus
+  258  make trike
+  259  bin/orderlogs -f testcases/all_new
+  260  git add .
+  261  git commit -m "Proficiency 1"
+  262  git push origin main
+  263  git status
+  264  git push
+  265  cd ..
+  266  rm -rf shared-repo-version-b-ezk1d/
+  267  ls
+  268  make
+  269  make debug
+  270  cd Practice2
+  271  make
+  272  make clean
+  273  clear
+  274  make
+  275  clear
+  276  make debug
+  277  make
+  278  make clean
+  279  make debug
+  280  make check
+  281  ./bin -i Practice2/testcases/short3.rep
+  282  ./bin
+  283  make clean
+  284  make debug
+  285  cd Practice2
+  286  make clearn
+  287  make clean
+  288  make debug
+  289  ./bin -i Practice2/testcases/short3.re
+  290  bin/a.out -t Practice2/testcases/short3.rep
+  291  gdb bin/a.out
+  292  gdb bin/a.out
+  293  clear
+  294  bin/a.out -t Practice2/testcases/short3.rep
+  295  bin/a.out -t testcases/short3.rep
+  296  bin/a.out -t Practice2/testcases/short3.rep
+  297  cd Practice
+  298  cd Practice2
+  299  bin/a.out -t Practice2/testcases/short3.rep
+  300  gdb bin/a.out
+  301  cd Practice2
+  302  bin/a.out -t Practice2/testcases/short1.rep
+  303  bin/a.out -t testcases/short1.rep
+  304  bin/a.out -t testcases/short2.rep
+  305  cd Practice2
+  306  make clean
+  307  make debug
+  308  bin/a.out -t testcases/short4.rep
+  309  bin/a.out -t testcases/short5.rep
+  310  cd Practice2
+  311  ref.out -t testcases/short2.rep
+  312  bin/a.out -t testcases/short2.rep
+  313  cd Practice2 
+  314  gdb bin/a.out
+  315  make clean
+  316  make debug
+  317  bin/a.out -t testcases/short2.rep
+  318  gdb bin/a.out
+  319  make clean
+  320  cd Practice2
+  321  make clean
+  322  make debug
+  323  bin/a.out -t testcases/short2.rep
+  324  make check
+  325  pwd
+  326  ls
+  327  ls -a
+  328  rm .gdbinit
+  329  ls -a
+  330  clear
+  331  touch ~/.gdbinit
+  332  ls -al
+  333  clear
+  334  echo "set history save on" > ~./gdbinit
+  335  echo "set history save on" > ~/.gdbinit
+  336  cat ~/.gdbinit
+  337  ls -al
+  338  clear
+  339  cat ssh
+  340  cat .ssh
+  341  ls .ssh
+  342  cat .ssh/id_ed25519.pub
+  343  mkdir prac
+  344  cd prac
+  345  bash
+  346  git clone git@github.com:ezk1d/Practice2.git
+  347  ls
+  348  cd Practice2
+  349  ls
+  350  ../
+  351  .
+  352  cd .
+  353  cd ..
+  354  ls
+  355  git clone git@github.com:CS429-FA2025/se-lab-manas-and-dep.git
+  356  cd Proficiency-Practice
+  357  ls
+  358  cd Proficiency-Practice
+  359  make check
+  360  chmod +x mini_ci_reference
+  361  make check
+  362  mini_ci testcases/err_ops2.s
+  363  clear
+  364  make clean
+  365  make debug
+  366  gdb mini_ci
+  367  mini_ci_reference testcases/err_ops2.s
+  368  clear
+  369  gdb mini_ci
+  370  clear
+  371  make 
+  372  make check
+  373  history
+  374  clear
+  375  touch shell_logs.txt
+  376  gdb
+  377  clear
+  378  gdb mini_ci
+  379  clear
+  380  touch gdb_logs
+  381  cd Proficiency-Practice/
+  382  git commit -m "Complete"
+  383  git add .
+  384  git commit -m "Complete"
+  385  git push
+  386  cd ..
+  387  rm -rf Proficiency-Practice
+  388  trie_ref -w easy.in
+  389  cd Practice/
+  390  trie_ref -w easy.in
+  391  chmod +x trie_ref
+  392  trie_ref -w easy.in
+  393  trie_ref -w many_finds.in
+  394  make
+  395  make stitch
+  396  trie_ref -w easy.in
+  397  trie_ref -w testcases/easy.in
+  398  clear
+  399  make pleakley
+  400  gdb bin/second_trie
+  401  clear
+  402  make lilo
+  403  make cobra
+  404  make lilo
+  405  gdb bin/second_trie
+  406  clear
+  407  make stitch
+  408  make nani
+  409  history
+  410  clear
+  411  touch show_logs
+  412  touch gdb_logs
+  413  cd Practice/
+  414  gdb bin/second_trie
+  415  git add .
+  416  git commit -m "Complete
+  417  "
+  418  git push
+  419  cd ..
+  420  rm -rf Practice
+  421  cd ..
+  422  ls
+  423  cd Practice3
+  424  ls
+  425  make
+  426  mini_ci testcases/basic_add.s
+  427  make debug
+  428  make clean
+  429  make debug
+  430  gdb mini_ci
+  431  clear
+  432  make
+  433  make check
+  434  chmod +x mini_ci_reference 
+  435  make check
+  436  gdb mini_ci
+  437  make clean
+  438  make debug
+  439  gdb mini_ci
+  440  make clean
+  441  make debug
+  442  make check
+  443  history
+  444  touch shell_logs.txt
+  445  gdb mini_ci
+  446  cd .
+  447  cd ..
+  448  rm -rf Practice3
+  449  ls -al
+  450  rm ~/.gdbinit
+  451  ls -al
+  452  clear
+  453  touch ~/.gdbinit
+  454  echo "set history save on" > .gdbinit
+  455  cat .gdbinit
+  456  git clone git@github.com:ezk1d/Practice3.git
+  457  ls
+  458  clear
+  459  bash
+  460  chmod +x ref.out
+  461  make
+  462  make check
+  463  ref.out -t short2.rep
+  464  make
+  465  ref.out -t testcases/short2.rep
+  466  gdb bin/a.out
+  467  ls
+  468  git clone git@github.com:ezk1d/Practice2.git
+  469  cd Practice2/
+  470  bash
+  471  ls
+  472  git pull
+  473  make week1
+  474  test-hw -h
+  475  clear
+  476  make week1
+  477  make week1
+  478  bin/test-hw -r
+  479  bin/test-hw 
+  480  make clean
+  481  bin/test-hw 
+  482  make week1
+  483  make clean
+  484  make
+  485  make clean
+  486  make week1
+  487  make
+  488  make week1
+  489  bin/test-hw -h
+  490  bin/test-hw -a
+  491  bin/test-hw -o
+  492  bin/test-hw -o
+  493  bin/test-hw -r
+  494  bin/test-hw 
+  495  clear
+  496  make clean
+  497  make debug
+  498  gdb bin/a.out
+  499  make 
+  500  mini_ci testcases/basic_add.s
+  501  make clean
+  502  make debug
+  503  gdb mini_ci
+  504  make clean
+  505  make debug
+  506  mini_ci testcases/basic_add.s
+  507  make check
+  508  chmod +x mini_ci_reference 
+  509  make check
+  510  history > shell_logs.txt
